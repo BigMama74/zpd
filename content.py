@@ -6,7 +6,7 @@
 
 #1. Spēles loģika
 
-
+```
 import random
 
 repeat = True
@@ -41,3 +41,4 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
+```
