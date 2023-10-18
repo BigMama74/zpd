@@ -2,11 +2,11 @@
 
 ##saturs
 
-#1. Apraksti speli
-
-#1. Spēles loģika
-
-```
+##1. Apraksti speli
+#gara laba
+##2. Spēles loģika
+#spēlēties
+'''py
 import random
 
 repeat = True
@@ -41,4 +41,4 @@ while repeat:
     else:
         repeat = False
         print("Paldies par spēli!  Bye, bye!")
-```
+'''
